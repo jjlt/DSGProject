@@ -20,6 +20,11 @@ export default class StartScreen extends Phaser.Scene {
             console.log('Starting Game');
             this.scene.start('Game')
         })
+        this.startTemplate = this.add.text(400, 700, ['Open template']).setInteractive();
+        this.startTemplate.on('pointerdown', () => {
+            console.log('Starting Template');
+            this.scene.start('TemplateScreen')
+        })
     }
 
     update() {
