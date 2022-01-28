@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\scenes"
+    "\\src\\scenes",
+    "\\webpack"
   ],
-  "SelectedNode": "\\src\\scenes\\StartScreen.js",
+  "SelectedNode": "\\src\\scenes\\template_screen.js",
   "PreviewInSolutionExplorer": false
 }

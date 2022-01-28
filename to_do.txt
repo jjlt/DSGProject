@@ -1,0 +1,30 @@
+# TODO
+
+Create logical waterfall
+
+Phase 1 Battle Sim v1
+
+	* Menu to input units
+	* Scene to read input from menu
+	* Create stats, read from data folder
+	* Plan battle rules
+	* Create dice roller
+	* Create basic visuals
+	* Develop rules
+	* Develop damage
+	* Develop winning condition
+
+Phase 2 Map read v1
+
+	* Read from file
+	* Initial print from file
+	* Generic size of map
+	* Print as hexagons
+	* Find or make terrain
+	* Render map with hex
+
+Phase 3 Map interactive v1
+
+Phase 4 Unit on map v1
+
+Phase 5 Map movement v1
